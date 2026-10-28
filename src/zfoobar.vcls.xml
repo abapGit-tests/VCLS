@@ -26,6 +26,19 @@
      <PREDOBJECT>USR40</PREDOBJECT>
     </V_VCLSTDEP>
    </VCLSTRUDEP_TAB>
+   <I18N_VCLDIRT>
+    <VCLDIRT>
+     <SPRAS>D</SPRAS>
+     <TEXT>something DE</TEXT>
+    </VCLDIRT>
+   </I18N_VCLDIRT>
+   <I18N_VCLSTRUCT>
+    <VCLSTRUCT>
+     <SPRAS>D</SPRAS>
+     <OBJECT>USR40</OBJECT>
+     <OBJECTTEXT>sdf DE</OBJECTTEXT>
+    </VCLSTRUCT>
+   </I18N_VCLSTRUCT>
   </asx:values>
  </asx:abap>
 </abapGit>
